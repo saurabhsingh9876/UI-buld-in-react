@@ -2,11 +2,11 @@ import React from 'react';
 import { IoCheckmarkOutline } from "react-icons/io5";
 import Button from '../button/Button';
 import { IoAlertCircleOutline } from "react-icons/io5";
-import  { data, carddata }  from '../../data/data';
+import   data  from '../../data/data';
 
 
 function Header() {
-  data
+  
   return (
     <div className='bg-slate-50'>
       <div className='text-3xl  font-normal tracking-wide font-sens pt-5 ml-[18%] text-gray-700'>
